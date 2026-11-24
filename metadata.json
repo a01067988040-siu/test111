@@ -1,0 +1,6 @@
+{
+  "name": "PassageNote",
+  "description": "영어 원문이나 문제를 사진으로 찍어 게시하면 직독직해, 구문 분석, 핵심 어휘, 정답 및 오답 해설을 정리해 주는 수능·내신 영어 학습 노트 앱",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
